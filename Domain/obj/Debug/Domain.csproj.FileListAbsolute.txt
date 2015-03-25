@@ -1,0 +1,8 @@
+C:\GitHub\SportsStore\Domain\bin\Debug\Domain.dll
+C:\GitHub\SportsStore\Domain\bin\Debug\Domain.pdb
+C:\GitHub\SportsStore\Domain\bin\Debug\Moq.dll
+C:\GitHub\SportsStore\Domain\bin\Debug\Ninject.dll
+C:\GitHub\SportsStore\Domain\bin\Debug\Moq.xml
+C:\GitHub\SportsStore\Domain\bin\Debug\Ninject.xml
+C:\GitHub\SportsStore\Domain\obj\Debug\Domain.dll
+C:\GitHub\SportsStore\Domain\obj\Debug\Domain.pdb
