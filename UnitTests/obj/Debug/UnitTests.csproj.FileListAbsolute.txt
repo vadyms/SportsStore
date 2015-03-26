@@ -3,3 +3,8 @@ C:\GitHub\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
 C:\GitHub\SportsStore\UnitTests\obj\Debug\UnitTests.dll
 C:\GitHub\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
 C:\GitHub\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\GitHub\SportsStore\UnitTests\bin\Debug\UnitTests.dll.config
+C:\GitHub\SportsStore\UnitTests\bin\Debug\EntityFramework.dll
+C:\GitHub\SportsStore\UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\SportsStore\UnitTests\bin\Debug\EntityFramework.xml
+C:\GitHub\SportsStore\UnitTests\bin\Debug\EntityFramework.SqlServer.xml
